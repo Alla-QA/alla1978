@@ -1,6 +1,6 @@
 ![Header](https://github.com/alla1978/alla1978/blob/main/assets/Quality-Assurance-AwsQuality.png)
 
-#### I am an experienced QA engineer with 3 years of experience in software quality assurance. My goal is to ensure high quality product by developing and implementing effective testing strategies. 
+### I am an experienced QA engineer with 3 years of experience in software quality assurance. My goal is to ensure high quality product by developing and implementing effective testing strategies. 
 
 ### Tools
 
@@ -16,4 +16,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=0x01af)
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-090909?style=for-the-badge&logo=phpMyAdmin&logoColor=F89C0E)
 
-Follow me
+### Follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/alla01091)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alla-gilep)
