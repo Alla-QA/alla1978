@@ -1,4 +1,4 @@
-![Header](https://github.com/alla1978/alla1978/blob/main/assets/Quality-Assurance-AwsQuality.png)
+![Header](https://github.com/alla1978/alla1978/blob/main/assets/1628245225631.jpg)
 
 ### I am an experienced QA engineer with 3 years of experience in software quality assurance. My goal is to ensure high quality product by developing and implementing effective testing strategies. 
 
@@ -11,7 +11,7 @@
 ![Devtools](https://img.shields.io/badge/-Devtools-090909?style=for-the-badge&logo=devtools)
 ![Swagger](https://img.shields.io/badge/-Swagger-090909?style=for-the-badge&logo=swagger)
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=0146b3)
-![Asana](https://img.shields.io/badge/-Asana-090909?style=for-the-badge&logo=Asana)
+![Asana](https://img.shields.io/badge/-Asana-090909?style=for-the-badge&logo=Asana&logoColor=#F06A6A)
 ![Confluence](https://img.shields.io/badge/-Confluence-090909?style=for-the-badge&logo=Confluence&logoColor=0146b3)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=0x01af)
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-090909?style=for-the-badge&logo=phpMyAdmin&logoColor=F89C0E)
