@@ -2,6 +2,8 @@
 
 ## I am a QA Engineer in functional testing (manual) such as Web Application Testing
 
-Tools
+### Tools
+
+![Postman](https://img.shields.io/badge/-Postman-090909)
 
 Follow me
