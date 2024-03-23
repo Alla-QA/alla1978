@@ -4,6 +4,6 @@
 
 ### Tools
 
-![Postman](https://img.shields.io/badge/-Postman-090909)
+![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=47C5FB)
 
 Follow me
