@@ -18,8 +18,8 @@ My experience in testing is about 3 years. My goal is to ensure high quality pro
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-090909?style=for-the-badge&logo=phpMyAdmin&logoColor=F89C0E)
 
 ### Certificates
-![alt text](image.png)
-![alt text](image-1.png)
+- (https://github.com/alla1978/alla1978/blob/main/image-1.png)
+- (https://github.com/alla1978/alla1978/blob/main/image.png)
 
 ### Where to find me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/alla01091)
