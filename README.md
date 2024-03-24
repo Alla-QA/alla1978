@@ -16,10 +16,14 @@ My experience in testing is about 3 years. My goal is to ensure high quality pro
 ![Confluence](https://img.shields.io/badge/-Confluence-090909?style=for-the-badge&logo=Confluence&logoColor=0146b3)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=0x01af)
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-090909?style=for-the-badge&logo=phpMyAdmin&logoColor=F89C0E)
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+
+### Soft skills
+
 
 ### Certificates
 - [сертификат](https://github.com/alla1978/alla1978/blob/main/image-1.png)
-- (https://github.com/alla1978/alla1978/blob/main/image.png)
+- [сертификат](https://github.com/alla1978/alla1978/blob/main/image.png)
 
 ### Where to find me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/alla01091)
