@@ -19,6 +19,7 @@ My experience in testing is about 3 years. My goal is to ensure high quality pro
 
 ### Certificates
 ![alt text](image.png)
+![alt text](image-1.png)
 
 ### Where to find me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/alla01091)
