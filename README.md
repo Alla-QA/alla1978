@@ -17,6 +17,10 @@ My experience in testing is about 3 years. My goal is to ensure high quality pro
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=0x01af)
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-090909?style=for-the-badge&logo=phpMyAdmin&logoColor=F89C0E)
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="git" src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=MySQL&logoColor=white" />
+<img alt="git" src="https://img.shields.io/badge/-phpMyAdmin-F9A03C?style=flat-square&logo=phpMyAdmin&logoColor=white" />
+<img alt="Github" src="https://img.shields.io/badge/-Github-311C87?style=flat-square&logo=github&logoColor=white" />
+<img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-E10098?style=flat-square&logo=gitlab&logoColor=white" />
 
 ### Soft skills
 
