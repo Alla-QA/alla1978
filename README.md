@@ -19,4 +19,4 @@ My experience in testing is about 3 years. My goal is to ensure high quality pro
 ### Where to find me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/alla01091)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alla-gilep)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=d44638)](mailto:alla.gilep@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=d44638&link=mailto:alla.gilep@gmail.com)](mailto:alla.gilep@gmail.com)
