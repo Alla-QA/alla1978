@@ -5,22 +5,18 @@ My experience in testing is about 3 years. My goal is to ensure high quality pro
 
 ### Tools
 
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
-![Github](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=Github)
-![Gitlab](https://img.shields.io/badge/-Gitlab-090909?style=for-the-badge&logo=Gitlab)
-![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=EF5B25)
-![Devtools](https://img.shields.io/badge/-Devtools-090909?style=for-the-badge&logo=devtools)
-![Swagger](https://img.shields.io/badge/-Swagger-090909?style=for-the-badge&logo=swagger)
-![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=0146b3)
-![Asana](https://img.shields.io/badge/-Asana-090909?style=for-the-badge&logo=Asana&logoColor=#F06A6A)
-![Confluence](https://img.shields.io/badge/-Confluence-090909?style=for-the-badge&logo=Confluence&logoColor=0146b3)
-![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=0x01af)
-![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-090909?style=for-the-badge&logo=phpMyAdmin&logoColor=F89C0E)
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=MySQL&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-phpMyAdmin-F9A03C?style=flat-square&logo=phpMyAdmin&logoColor=white" />
 <img alt="Github" src="https://img.shields.io/badge/-Github-311C87?style=flat-square&logo=github&logoColor=white" />
 <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-E10098?style=flat-square&logo=gitlab&logoColor=white" />
+<img alt="Postman" src="https://img.shields.io/badge/-Postman-FB542B?style=flat-square&logo=postman&logoColor=white" />
+<img alt="Devtools" src="https://img.shields.io/badge/-Devtools-430098?style=flat-square&logo=devtools&logoColor=white" />
+<img alt="Swagger" src="https://img.shields.io/badge/-Swagger-13aa52?style=flat-square&logo=Swagger&logoColor=white" />
+<img alt="Jira" src="https://img.shields.io/badge/-Jira-007ACC?style=flat-square&logo=Jira&logoColor=white" />
+<img alt="Asana" src="https://img.shields.io/badge/-Asana-DD0031?style=flat-square&logo=Asana&logoColor=white" />
+<img alt="Confluence" src="https://img.shields.io/badge/-Confluence-1a73e8?style=flat-square&logo=Confluence&logoColor=white" />
+
 
 ### Soft skills
 
