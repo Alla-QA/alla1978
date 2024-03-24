@@ -4,7 +4,7 @@
 My experience in testing is about 3 years. My goal is to ensure high quality product by developing and implementing effective testing strategies.
 
 ### Tools
-
+<p>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=MySQL&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-phpMyAdmin-F9A03C?style=flat-square&logo=phpMyAdmin&logoColor=white" />
@@ -16,7 +16,7 @@ My experience in testing is about 3 years. My goal is to ensure high quality pro
 <img alt="Jira" src="https://img.shields.io/badge/-Jira-007ACC?style=flat-square&logo=Jira&logoColor=white" />
 <img alt="Asana" src="https://img.shields.io/badge/-Asana-DD0031?style=flat-square&logo=Asana&logoColor=white" />
 <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-1a73e8?style=flat-square&logo=Confluence&logoColor=white" />
-
+</p>
 
 ### Soft skills
 
