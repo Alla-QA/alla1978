@@ -1,10 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you.</h1>
-<p>Welcome to my page! </br> I'm Alla, Middle QA Engineer from Minsk, Belarus.</b>
-I am an experienced QA engineer with 3 years of experience in software quality assurance. My goal is to ensure high quality product by developing and implementing effective testing strategies.
-
-![Header](https://github.com/alla1978/alla1978/blob/main/assets/1628245225631.jpg)
-
-### I am an experienced QA engineer with 3 years of experience in software quality assurance. My goal is to ensure high quality product by developing and implementing effective testing strategies. 
+Welcome to my page! I'm Alla, Middle QA Engineer from Minsk, Belarus.
+My experience in testing is about 3 years. My goal is to ensure high quality product by developing and implementing effective testing strategies.
 
 ### Tools
 
