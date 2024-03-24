@@ -1,3 +1,7 @@
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you.</h1>
+<p>Welcome to my page! </br> I'm Alla, Middle QA Engineer from Minsk, Belarus.</b>
+I am an experienced QA engineer with 3 years of experience in software quality assurance. My goal is to ensure high quality product by developing and implementing effective testing strategies.
+
 ![Header](https://github.com/alla1978/alla1978/blob/main/assets/1628245225631.jpg)
 
 ### I am an experienced QA engineer with 3 years of experience in software quality assurance. My goal is to ensure high quality product by developing and implementing effective testing strategies. 
@@ -16,6 +20,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=0x01af)
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-090909?style=for-the-badge&logo=phpMyAdmin&logoColor=F89C0E)
 
-### Follow me
+### Where to find me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/alla01091)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alla-gilep)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alla-gilep)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=d44638)](mailto:alla.gilep@gmail.com)
